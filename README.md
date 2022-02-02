@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ragz-no
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Advanced JS and DOM
+- 🌱 I’m currently learning jQuery
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 
