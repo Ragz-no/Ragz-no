@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Ram Singh
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning jQuery
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 
