@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Ram Singh
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning RESTful API
+- 🌱 I’m currently learning Authentication and security
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 
